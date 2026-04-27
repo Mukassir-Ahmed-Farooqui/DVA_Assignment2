@@ -94,7 +94,7 @@ jupyter notebook
 
 ## 👨‍🏫 Guide
 
-* **Srikanth**
+* **Panigrahi Srikanth**
 
 ---
 
