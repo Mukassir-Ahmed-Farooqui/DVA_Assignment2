@@ -123,6 +123,6 @@ This project is for academic purposes only.
 
 ## ⭐ Acknowledgment
 
-Special thanks to our guide **Srikanth** for guidance and support throughout this assignment.
+Special thanks to our guide **Panigrahi Srikanth Sir** for guidance and support throughout this assignment.
 
 ---
