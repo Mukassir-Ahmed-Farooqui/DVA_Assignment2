@@ -195,7 +195,6 @@ jupyter notebook
 
 * Use advanced NLP models (GPT-based / fine-tuned BERT)
 * Build interactive dashboards (Plotly / Streamlit)
-* Apply clustering algorithms (K-Means, DBSCAN)
 * Expand dataset for deeper analysis
 
 ---
